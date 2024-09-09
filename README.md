@@ -1,1 +1,1 @@
-# Housing-Prices-Competition-for-Kaggle-Learn-Users---Solution
+# Machine Learning Solutions 
